@@ -20,3 +20,5 @@ slownik_PL_DE = {
     "wy": "ihr",
     "oni": "sie"
 }
+
+print(slownik_PL_DE[input()])
