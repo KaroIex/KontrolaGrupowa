@@ -1,0 +1,22 @@
+slownik_POL_HISZP = {
+    "cześć": "hi",
+    "jabłko": "apple",
+    "jajecznica": "omlet",
+    "dzień": "day",
+    "noc": "Night",
+    "czas bożonarodzeniowy": "wielkanocns",
+    "mleko": "milk",
+    "kremówka": "cremofka",
+    "woda": "water",
+    "jeden": "one",
+    "pierwszy": "first",
+    "kochać": "love",
+    "ja": "me",
+    "ty": "you",
+    "on": "he",
+    "ona": "she",
+    "ono": "it",
+    "my": "we",
+    "wy": "yoy",
+    "oni": "they"
+}
