@@ -21,4 +21,4 @@ slownik_POL_HISZP = {
     "oni": "sie"
 }
 
-print(slownik_ANG_POL[input()])
+print(slownik_POL_HISZP[input()])
