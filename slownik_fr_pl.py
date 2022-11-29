@@ -19,6 +19,16 @@ slownik_FR_PL = {
     "nous": "my",
     "vous": "wy",
     "eux": "oni"
+    "Vendredi": "piątek",
+    "Matin": "rano",
+    "Famille": "rodzina",
+    "Chat": "kot",
+    "Chien": "pies",
+    "Rouge": "czerwony",
+    "Vert": "zielony",
+    "Marron": "brązowy",
+    "Noir": "czarny",
+    "Blanc": "biały"
 }
 
 print(slownik_FR_PL[input()])
