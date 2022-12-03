@@ -18,7 +18,27 @@ slownik_PL_FR = {
     "ono": "celui-ci",
     "my": "nous",
     "wy": "vous",
-    "oni": "eux"
+    "oni": "eux",
+    "dwa": "deux",
+    "trzy": "trois",
+    "cztery": "quatre",
+    "pięć": "cuire",
+    "sześć": "six",
+    "siedem": "sept",
+    "osiem": "huit",
+    "dziewięć": "neuf",
+    "dziesięć": "dix",
+    "jedenaście": "onze",
+    "dwanaście": "douze",
+    "dwadzieścia": "vingt",
+    "trzydzieści": "trente",
+    "czterdzieści": "quarante",
+    "pięćdziesiąt": "cinquante",
+    "sześćdziesiąt": "soixante",
+    "siedemdziesiąt": "soixante-dix",
+    "osiemdziesiąt": "quatre-vingt",
+    "dziewięćdziesiąt": "quatre-vingt-dix",
+    "sto": "cent"
 }
 
 print(slownik_PL_FR[input()])
