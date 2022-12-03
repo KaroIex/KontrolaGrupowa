@@ -19,6 +19,17 @@ slownik_POL_HISZP = {
     "my": "wir",
     "wy": "ihr",
     "oni": "sie"
+    "jeden": "eins",
+    "pierwszy": "ersten",
+    "kochać": "lieben",
+    "ja": "ich",
+    "ty": "du",
+    "on": "er",
+    "ona": "sie",
+    "ono": "es",
+    "my": "wir",
+    "wy": "ihr",
+    "oni": "sie"
 }
 
 print(slownik_POL_HISZP[input()])
