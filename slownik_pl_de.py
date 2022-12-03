@@ -29,6 +29,26 @@ slownik_PL_DE = {
     "jeść": "essen",
     "zimno": "kalt",
     "ciepło": "warm"
+    "dwa": "zwei",
+    "trzy": "drei",
+    "cztery": "vier",
+    "pięć": "fünf",
+    "sześć": "sechs",
+    "siedem": "sieben",
+    "osiem": "acht",
+    "dziewięć": "neun",
+    "dziesięć": "zehn",
+    "jedenaście": "elf",
+    "dwanaście": "zwölf",
+    "dwadzieścia": "Zweifach",
+    "trzydzieści": "dreißig",
+    "czterdzieści": "vierzig",
+    "pięćdziesiąt": "fünfzig",
+    "sześćdziesiąt": "Sechzig",
+    "siedemdziesiąt": "siebzig",
+    "osiemdziesiąt": "achtzig",
+    "dziewięćdziesiąt": "neunzig",
+    "sto": "einhundert"
 }
 
 print(slownik_PL_DE[input()])
