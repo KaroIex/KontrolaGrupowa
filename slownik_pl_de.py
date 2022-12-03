@@ -18,7 +18,17 @@ slownik_PL_DE = {
     "ono": "es",
     "my": "wir",
     "wy": "ihr",
-    "oni": "sie"
+    "oni": "sie",
+    "śnieg": "Schnee",
+    "słońce": "Sonne",
+    "ser": "Käse",
+    "piłka": "Ball",
+    "kot": "Katze",
+    "pies": "Hund",
+    "spać": "schlafen",
+    "jeść": "essen",
+    "zimno": "kalt",
+    "ciepło": "warm"
 }
 
 print(slownik_PL_DE[input()])
