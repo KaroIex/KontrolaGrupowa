@@ -13,7 +13,13 @@ class CSVParser:
         column = [row[index] for row in data]
         return column
 
+    def get_cell(self,row,column):
+        data = self.parse_csv()
+        cell = data[row][column]
+        return cell    
+
     def get_row(self, index):
         data = self.parse_csv()
         row = data[index]
         return row
+
