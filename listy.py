@@ -8,3 +8,5 @@ elements.append(Element("B"))
 elements.append(Element("C"))
 elements.append(Element("D"))
 elements.append(Element("E"))
+
+elements.sort(key=lambda x: x.name)
