@@ -17,3 +17,5 @@ elements.append(Element("U"))
 elements.append(Element("R"))
 elements.append(Element("W"))
 elements.append(Element("Y"))
+
+elements.sort(key=lambda x: x.name, reverse=True)
