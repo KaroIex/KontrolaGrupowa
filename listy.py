@@ -59,3 +59,5 @@ lista_liczb.extend([6, 7, 8, 9, 10])
 lista_liczb.extend([11, 12, 13, 14, 15])
 lista_liczb.extend([16, 17, 19, 20])
 lista_liczb.extend([98, 97, 96])
+lista_liczb = [111, 211, 311, 411, 511]
+lista_liczb = [122, 222, 322, 422, 522]
