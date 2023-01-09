@@ -26,3 +26,16 @@ elements.append(Element("Y"))
 
 
 elements.sort(key=lambda x: x.name, reverse=True)
+
+
+elements.append(Element("D"))
+elements.append(Element("U"))
+elements.append(Element("P"))
+elements.append(Element("K"))
+elements.append(Element("I"))
+
+elements.append(Element("C"))
+elements.append(Element("Y"))
+elements.append(Element("C"))
+elements.append(Element("K"))
+elements.append(Element("I"))
