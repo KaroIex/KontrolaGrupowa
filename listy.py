@@ -1,4 +1,3 @@
-
 lista_lancuchow = ['kaczka', 'dziwaczka', 'ananas', 'grzyb', 'kosa', 'kamień']
 
 lista_lancuchow = sorted(lista_lancuchow)
@@ -52,3 +51,9 @@ elements.append(Element("Y"))
 elements.append(Element("C"))
 elements.append(Element("K"))
 elements.append(Element("I"))
+
+
+lista_liczb = [1, 2, 3, 4, 5]
+lista_liczb.sort(reverse=True)
+lista_liczb.extend([6, 7, 8, 9, 10])
+lista_liczb.extend([11, 12, 13, 14, 15])
