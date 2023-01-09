@@ -53,10 +53,19 @@ elements.append(Element("K"))
 elements.append(Element("I"))
 
 
-lista_liczb = [1, 2, 3, 4, 5]
+lista_liczb = [2,4,]
 lista_liczb.sort(reverse=True)
+
+
 lista_liczb.extend([6, 7, 8, 9, 10])
 lista_liczb.extend([11, 12, 13, 14, 15])
 
 lista_liczb += [45, 71, 453]
 lista_liczb += [453, 321, 32, 432, 234, 342, 564, 6574, 34, 78421]
+
+
+lista_liczb.extend([6, 8, 10])
+lista_liczb.extend([ 12, 14])
+lista_liczb.extend([16, 18, 20])
+lista_liczb.extend([ 22, 24])
+lista_liczb.extend([26, 27, 28, 29, 30, 31, 32, 33, 34, 35])
