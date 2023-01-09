@@ -58,4 +58,4 @@ lista_liczb.sort(reverse=True)
 lista_liczb.extend([6, 7, 8, 9, 10])
 lista_liczb.extend([11, 12, 13, 14, 15])
 
-lista_liczb += [54, 324, 234, 12, 45, 71, 564, 453, 342, 56]
+lista_liczb += [45, 71, 453]
